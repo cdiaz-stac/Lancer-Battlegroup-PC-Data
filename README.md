@@ -21,7 +21,7 @@ The workflow for creating a battlegroup should be as follows. I recommend using 
 - Fill out weapons and systems by dragging and dropping from the relevant compendiums, keeping in mind the conventions used (described below)
 - Import payload, escort and wing deployables for ease of tracking
 - Name ship, change token image if desired
-- Drag
+- Drag a Pilot actor onto the ship's sheet to assign a commander. Without this, attack rolls from the sheet will not work.
 - Repeat until battlegroup is done
 
 ## Conventions:
