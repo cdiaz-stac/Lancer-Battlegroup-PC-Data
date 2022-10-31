@@ -9,7 +9,7 @@ Lancer is copyright Massif Press
 Uses images made by Suki for the default hull, escort and wing tokens, which can be found here: https://sukirpg.itch.io/battlegroup-tokens
 
 # Usage:
-Add this module to your Foundry installation using a link to the provided manifest, then enable it in a world created with the Lancer System.
+Add this module to your Foundry installation using [this](https://raw.githubusercontent.com/GabrielPCF/Lancer-Battlegroup-PC-Data/main/module.json) link to the provided manifest, then enable it in a world created with the Lancer System.
 
 This will import all the compendiums in this module into your world, which can then be used to import the actors and items as needed.
 
