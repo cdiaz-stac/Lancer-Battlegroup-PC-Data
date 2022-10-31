@@ -5,9 +5,10 @@
 	"author": "Gabriel",
 	"version": "1.0.0",
 	"minimumCoreVersion": "0.6.0",
-	"compatibleCoreVersion": "0.9.280",
+	"compatibleCoreVersion": "9",
+	"system": "lancer",
 	"url": "https://github.com/GabrielPCF/Lancer-Battlegroup-PC-Data",
-	"manifest": "ManifestURLhere",
+	"manifest": "https://raw.githubusercontent.com/GabrielPCF/Lancer-Battlegroup-PC-Data/main/module.json",
 	"download": "https://github.com/GabrielPCF/Lancer-Battlegroup-PC-Data/raw/main/battlegroup-PCs.zip",
 	"packs": [
 	{
