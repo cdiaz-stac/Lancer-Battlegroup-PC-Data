@@ -21,14 +21,17 @@ The workflow for creating a battlegroup should be as follows. I recommend using 
 - Fill out weapons and systems by dragging and dropping from the relevant compendiums, keeping in mind the conventions used (described below)
 - Import payload, escort and wing deployables for ease of tracking
 - Name ship, change token image if desired
+- Drag
 - Repeat until battlegroup is done
 
 ## Conventions:
+- **Frame** items and **Mech** actors are used for **Hulls** and **Ships** respectively
 - **Main** weapon slots are for **Primary** weapons
 - **Heavy** weapon slots are for **Superheavy** weapons (Bracing included in actors as a bit of a hack to make them work well with base Lancer weapons)
 - **Flex** and **Aux** weapon slots are for **Auxiliary** weapons
 - **Systems** are used for both **Ship Systems** as well as tracking a ship's **Escorts** and **Wings**. SP is the number of System slots a ship has.
 - **Ace Squadrons** are implemented as a Mech/Mech Frame instead of a Deployable, for ease of customizing with Ace Systems.
+- **Pilot** actors are used for **Commanders**. Make sure to keep the Level and Grit at 0, otherwise the bonuses are added to attack rolls.
 
 ## Automation and Missing Features:
 Flagship HP increase and System slot are automated. Bulwark Redundancies and Casque Armor's HP increases are automated.
