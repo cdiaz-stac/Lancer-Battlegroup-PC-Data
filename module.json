@@ -2,7 +2,7 @@
 	"name": "battlegroup-PCs",
 	"title": "Lancer Battlegroup - PC Data",
 	"description": "Pre-built compendiums of PC facing data for Lancer Battlegroup, using the Lancer system.",
-	"author": "Gabriel",
+	"author": "Chris",
 	"version": "1.0.0",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "11",
