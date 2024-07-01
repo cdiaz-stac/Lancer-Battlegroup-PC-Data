@@ -7,9 +7,9 @@
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "11",
 	"system": "lancer",
-	"url": "https://github.com/GabrielPCF/Lancer-Battlegroup-PC-Data",
-	"manifest": "https://raw.githubusercontent.com/GabrielPCF/Lancer-Battlegroup-PC-Data/main/module.json",
-	"download": "https://github.com/GabrielPCF/Lancer-Battlegroup-PC-Data/raw/main/battlegroup-PCs.zip",
+	"url": "https://github.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/tree/main",
+	"manifest": "https://raw.githubusercontent.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/main/module.json",
+	"download": "https://github.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/raw/main/battlegroup-PCs.zip",
 	"packs": [
 	{
 		"name": "pc-ace-systems",
