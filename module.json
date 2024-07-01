@@ -1,7 +1,7 @@
 {
 	"id": "battlegroup-PCs",
 	"name": "battlegroup-PCs",
-	"title": "Lancer Battlegroup - PC Data",
+	"title": "battlegroup-PCs",
 	"description": "Pre-built compendiums of PC facing data for Lancer Battlegroup, using the Lancer system.",
 	"author": "Chris",
 	"version": "1.1.0",
