@@ -1,84 +1,84 @@
 {
-    "id": "battlegroup-pcs",
-    "title": "battlegroup-pcs",
-    "description": "Pre-built compendiums of PC facing data for Lancer Battlegroup, using the Lancer system.",
-    "authors": [
-      {
-        "name": "Chris"
-      }
-    ],
-    "version": "1.1.0",
-    "compatibility": {
-      "minimum": "9",
-      "verified": "11"
+  "id": "battlegroup-pcs",
+  "title": "battlegroup-pcs",
+  "description": "Pre-built compendiums of PC facing data for Lancer Battlegroup, using the Lancer system.",
+  "authors": [
+    {
+      "name": "Chris"
+    }
+  ],
+  "version": "1.1.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "11"
+  },
+  "system": "lancer",
+  "url": "https://github.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/tree/main",
+  "manifest": "https://raw.githubusercontent.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/main/module.json",
+  "download": "https://github.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/raw/main/battlegroup-PCs.zip",
+  "packs": [
+    {
+      "name": "pc-ace-systems",
+      "label": "PC Ace Systems - Battlegroup",
+      "system": "lancer",
+      "path": "./packs/pc-ace-systems-battlegroup.db",
+      "type": "Item"
     },
-    "system": "lancer",
-    "url": "https://github.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/tree/main",
-    "manifest": "https://raw.githubusercontent.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/main/module.json",
-    "download": "https://github.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/raw/main/battlegroup-PCs.zip",
-    "packs": [
-        {
-            "name": "pc-ace-systems",
-            "label": "PC Ace Systems - Battlegroup",
-            "system": "lancer",
-            "path": "./packs/pc-ace-systems-battlegroup.db",
-            "type": "Item"
-        },
-        {
-            "name": "pc-hull-items",
-            "label": "PC Hull Items - Battlegroup",
-            "system": "lancer",
-            "path": "./packs/pc-hulls-battlegroup.db",
-            "type": "Item"
-        },
-        {
-            "name": "pc-hull-tokens",
-            "label": "PC Hull Actors - Battlegroup",
-            "system": "lancer",
-            "path": "./packs/pc-hull-tokens-battlegroup.db",
-            "type": "Actor"
-        },
-        {
-            "name": "pc-payload-tokens",
-            "label": "PC Payload Deployables - Battlegroup",
-            "system": "lancer",
-            "path": "./packs/pc-payload-tokens.db",
-            "type": "Actor"
-        },
-        {
-            "name": "pc-system-items",
-            "label": "PC Ship System Items - Battlegroup",
-            "system": "lancer",
-            "path": "./packs/pc-ship-systems-battlegroup.db",
-            "type": "Item"
-        },
-        {
-            "name": "pc-weapon-items",
-            "label": "PC Weapon Items - Battlegroup",
-            "system": "lancer",
-            "path": "./packs/pc-weapons-battlegroup.db",
-            "type": "Item"
-        },
-        {
-            "name": "pc-wing-escort-items",
-            "label": "PC Wing and Escort Items - Battlegroup",
-            "system": "lancer",
-            "path": "./packs/pc-wing-and-escort-items-battlegroup.db",
-            "type": "Item"
-        },
-        {
-            "name": "pc-wing-escort-tokens",
-            "label": "PC Wing and Escort Deployables - Battlegroup",
-            "system": "lancer",
-            "path": "./packs/pc-wing-and-escort-tokens-battlegroup.db",
-            "type": "Actor"
-        },
-        {
-            "name": "tag-items",
-            "label": "Tags - Battlegroup",
-            "system": "lancer",
-            "path": "./packs/tags-battlegroup.db",
-            "type": "Item"
-        }
-    ]
+    {
+      "name": "pc-hull-items",
+      "label": "PC Hull Items - Battlegroup",
+      "system": "lancer",
+      "path": "./packs/pc-hulls-battlegroup.db",
+      "type": "Item"
+    },
+    {
+      "name": "pc-hull-tokens",
+      "label": "PC Hull Actors - Battlegroup",
+      "system": "lancer",
+      "path": "./packs/pc-hull-tokens-battlegroup.db",
+      "type": "Actor"
+    },
+    {
+      "name": "pc-payload-tokens",
+      "label": "PC Payload Deployables - Battlegroup",
+      "system": "lancer",
+      "path": "./packs/pc-payload-tokens.db",
+      "type": "Actor"
+    },
+    {
+      "name": "pc-system-items",
+      "label": "PC Ship System Items - Battlegroup",
+      "system": "lancer",
+      "path": "./packs/pc-ship-systems-battlegroup.db",
+      "type": "Item"
+    },
+    {
+      "name": "pc-weapon-items",
+      "label": "PC Weapon Items - Battlegroup",
+      "system": "lancer",
+      "path": "./packs/pc-weapons-battlegroup.db",
+      "type": "Item"
+    },
+    {
+      "name": "pc-wing-escort-items",
+      "label": "PC Wing and Escort Items - Battlegroup",
+      "system": "lancer",
+      "path": "./packs/pc-wing-and-escort-items-battlegroup.db",
+      "type": "Item"
+    },
+    {
+      "name": "pc-wing-escort-tokens",
+      "label": "PC Wing and Escort Deployables - Battlegroup",
+      "system": "lancer",
+      "path": "./packs/pc-wing-and-escort-tokens-battlegroup.db",
+      "type": "Actor"
+    },
+    {
+      "name": "tag-items",
+      "label": "Tags - Battlegroup",
+      "system": "lancer",
+      "path": "./packs/tags-battlegroup.db",
+      "type": "Item"
+    }
+  ]
 }
