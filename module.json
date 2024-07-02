@@ -11,7 +11,7 @@
     "compatibility": {
       "minimum": "9",
       "verified": "11"
-}
+},
     "system": "lancer",
     "url": "https://github.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/tree/main",
     "manifest": "https://raw.githubusercontent.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/main/module.json",
