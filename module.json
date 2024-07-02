@@ -1,21 +1,18 @@
 {
   "id": "battlegroup-pcs",
+  "name": "battlegroup-pcs",
   "title": "battlegroup-pcs",
   "description": "Pre-built compendiums of PC facing data for Lancer Battlegroup, using the Lancer system.",
+  "library": "false",
+  "version": "1.1.0",
+  "minimumCoreVersion": "0.6.5",
+  "compatibleCoreVersion": "11.315",
+  "system": "lancer",
   "authors": [
     {
       "name": "Chris"
     }
   ],
-  "version": "1.1.0",
-  "compatibility": {
-    "minimum": "9",
-    "verified": "11"
-  },
-  "system": "lancer",
-  "url": "https://github.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/tree/main",
-  "manifest": "https://raw.githubusercontent.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/main/module.json",
-  "download": "https://github.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/raw/main/battlegroup-PCs.zip",
   "packs": [
     {
       "name": "pc-ace-systems",
@@ -80,5 +77,8 @@
       "path": "./packs/tags-battlegroup.db",
       "type": "Item"
     }
-  ]
+  ],
+  "url": "https://github.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/tree/main",
+  "manifest": "https://raw.githubusercontent.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/main/module.json",
+  "download": "https://github.com/cdiaz-stac/Lancer-Battlegroup-PC-Data/raw/main/battlegroup-PCs.zip"
 }
